@@ -1,4 +1,4 @@
-HandmadeHero
-============
+Handmade Hero
+=============
 
-A full game engine in C.
+A low-level game engine written in C++.
